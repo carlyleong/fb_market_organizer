@@ -1,7 +1,5 @@
 # fb_market_organizer
 
-# fb_market_organizer
-
 An automated tool that uses OpenAI's GPT-4 Vision to analyze furniture images and generate professional Facebook Marketplace listings. The bot analyzes images, generates descriptions, suggests pricing, and exports listing data to CSV format.
 
 ## Features
